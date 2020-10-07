@@ -25,9 +25,8 @@ src='https://img.icons8.com/color/452/c-plus-plus-logo.png' width='40' height='4
 </p>
 
 <div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugurcanerdogan)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
