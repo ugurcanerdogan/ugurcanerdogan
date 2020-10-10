@@ -1,5 +1,5 @@
 <h1 align="center">Hello  🌹, my name is Uğurcan !</h1>
-<h3 align="center">I am a second year computer science student at Hacettepe University. Until this time, I have worked in various communities such as Robotics Society and Artificial Intelligence Club. I'm interested in software, networking, robotics and artificial intelligence technologies.</h3>
+<h3 align="center">I am a second year computer science student at Hacettepe University. Until this time, I have worked in various communities such as Robotics Society and Artificial Intelligence Club. I'm interested in software, networks, robotics and artificial intelligence technologies.</h3>
 
 ![](https://komarev.com/ghpvc/?username=ugurcanerdogan&label=PROFILE+VIEWS&color=red&style=plastic)
 
