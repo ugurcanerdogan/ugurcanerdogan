@@ -3,13 +3,13 @@
 
 ![](https://komarev.com/ghpvc/?username=ugurcanerdogan&label=PROFILE+VIEWS&color=red&style=plastic)
 
-Skills: Python, Java, C, Arduino, Raspberry
+Skills: Python, Java, C++, C#, Arduino, Raspberry
 
-- 💻 I’m currently working on ***C++***, ***Java*** 
+- 💻 I’m currently working on ***Java***, ***C#*** 
 
-- 🌱 I’m currently learning ***HTML***, ***MySQL***, ***ML & AI*** 
+- 🌱 I’m currently learning ***.NET***, ***Back-End***, ***JavaScript*** 
 
-- 🤝 I’m looking to collaborate on ***HTML***, ***ML & AI*** 
+- 🤝 I’m looking to collaborate on ***Back-End***, ***WebDesign*** 
 
 - ✍️ Ask me about : *Python*, *Java*, *Robotics* 
 
