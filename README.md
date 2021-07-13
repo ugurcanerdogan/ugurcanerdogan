@@ -7,9 +7,9 @@
 
 Skills: Python, Java, C#, Arduino, Raspberry
 
-- 💻 I’m currently working on ***Java***, ***C#*** 
+- 💻 I’m currently working on ***Java***, ***Spring*** 
 
-- 🌱 I’m currently learning ***.NET***, ***Back-End***, ***JavaScript*** 
+- 🌱 I’m currently learning ***Kotlin***, ***Back-End***, ***JUnit 5*** 
 
 - 🤝 I’m looking to collaborate on ***Back-End***, ***Algorithms*** 
 
