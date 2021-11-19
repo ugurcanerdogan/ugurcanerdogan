@@ -1,4 +1,4 @@
-![](https://github.com/ugurcanerdogan/ugurcanerdogan.github.io/blob/main/sertifikalar/resim/kartvizit.png)
+![](https://github.com/ugurcanerdogan/ugurcanerdogan/blob/main/kartvizit.png)
 
 <h1 align="center">Hello  🌹, my name is Uğurcan !</h1>
 <h3 align="center">I am a 3rd year Computer Engineering student at Hacettepe University. I have worked in various student societies throughout my academic life. I am currently working as a software developer in the long-term internship program of Doğuş Teknoloji. I'm interested in software, computer networks, robotics and artificial intelligence technologies.</h3>
