@@ -1,7 +1,7 @@
 ![](https://github.com/ugurcanerdogan/ugurcanerdogan/blob/main/kartvizit.png)
 
 <h1 align="center">Hello  🌹, my name is Uğurcan !</h1>
-<h3 align="center">I am a 3rd year Computer Engineering student at Hacettepe University. I have worked in various student societies throughout my academic life. I am currently working as a software developer in the long-term internship program of Doğuş Technology. I'm interested in back-end development, computer networks, robotics and machine learning technologies.</h3>
+<h3 align="center">I am a 4th year Computer Engineering student at Hacettepe University. I have worked in various student societies throughout my academic life. I am currently working as a software developer in the long-term internship program of Doğuş Technology. I'm interested in back-end development, computer networks, robotics and machine learning technologies.</h3>
 
 ![](https://komarev.com/ghpvc/?username=ugurcanerdogan&label=PROFILE+VIEWS&color=red&style=plastic)
 
