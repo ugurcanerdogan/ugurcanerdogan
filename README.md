@@ -1,17 +1,17 @@
 ![](https://github.com/ugurcanerdogan/ugurcanerdogan/blob/main/kartvizit.png)
 
 <h1 align="center">Hello  🌹, my name is Uğurcan !</h1>
-<h3 align="center">I am a 4th year Computer Engineering student at Hacettepe University. I have worked in various student societies throughout my academic life. I am currently working as a software developer in the long-term internship program of Doğuş Technology. I'm interested in back-end development, computer networks, robotics and machine learning technologies.</h3>
+<h3 align="center">I am a 4th year Computer Engineering student at Hacettepe University. I have worked in various student societies throughout my academic life. I am currently working as a software development intern at OBSS Technology. I'm interested in back-end development, computer networks, robotics and machine learning technologies.</h3>
 
 ![](https://komarev.com/ghpvc/?username=ugurcanerdogan&label=PROFILE+VIEWS&color=red&style=plastic)
 
 Skills: Python, Java, C#, Arduino, Raspberry
 
-- 💻 I’m currently working on ***Java***, ***Kotlin***, ***Spring*** 
+- 💻 I’m currently working on ***Java***, ***React***, ***Spring*** 
 
-- 🌱 I’m currently learning ***Kotlin***, ***Back-End***, ***JUnit 5***, ***Machine Learning*** 
+- 🌱 I’m currently learning ***React***, ***Spring***
 
-- 🤝 I’m looking to collaborate on ***Back-End***, ***Algorithms***, ***Machine Learning*** 
+- 🤝 I’m looking to collaborate on ***Back-End***, ***Machine Learning*** 
 
 - ✍️ Ask me about : *Python*, *Java*, *Robotics* 
 
