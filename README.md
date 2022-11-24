@@ -6,10 +6,10 @@
 ## <div align="center">Hello 🌹, I'm Uğurcan ! 👨‍💻</div>
 
 
-#### I am a 4th-year Computer Engineering student at Hacettepe University. I have worked in various student societies throughout my academic life. I am currently working as a software development intern at OBSS Technology. I'm interested in back-end development, computer networks, robotics, and machine learning technologies.
+#### I am a 4th-year Computer Engineering student at Hacettepe University. I have worked in various student societies throughout my academic life. I'm interested in back-end development, computer networks, robotics, and machine learning technologies.
 
 
-- 🔭 I’m currently working on Spring, React JS, and ML.
+- 🔭 I’m currently working on Spring, Python, and ML.
 
 
 - 🌱 I’m currently learning Kubernetes and Nginx.
