@@ -6,7 +6,7 @@
 ## <div align="center">Hello 🌹, I'm Uğurcan ! 👨‍💻</div>
 
 
-#### I graduated from Hacettepe University with high honour student degree in Computer Engineering. Throughout my academic journey, I actively participated in various student societies, enriched my university experience and developed valuable leadership and teamwork skills.
+I graduated from Hacettepe University with high honour student degree in Computer Engineering. Throughout my academic journey, I actively participated in various student societies, enriched my university experience and developed valuable leadership and teamwork skills.
 
 Presently, my focus lies in the exciting fields of web development, cloud and container technologies, and machine learning applications. I am passionate about staying updated with the latest advancements in these areas and exploring how they can be utilized to create innovative and impactful solutions.
 
